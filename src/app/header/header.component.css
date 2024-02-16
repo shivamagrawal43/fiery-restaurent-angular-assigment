@@ -1,0 +1,23 @@
+/* Add this CSS to enhance the appearance of the navigation bar */
+
+/* Style for the navigation bar */
+#nav {
+    background-color: #ffeecc; /* Set your desired background color */
+    padding: 1rem;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 1rem;
+  }
+  
+  .nav-link {
+    color: #448e16; /* Set your desired text color */
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #996633; /* Set your desired hover color */
+  }
+  /* Add this CSS for the footer */
+  
